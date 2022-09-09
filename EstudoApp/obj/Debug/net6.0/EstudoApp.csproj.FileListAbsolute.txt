@@ -1,0 +1,15 @@
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\bin\Debug\net6.0\EstudoApp.exe
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\bin\Debug\net6.0\EstudoApp.deps.json
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\bin\Debug\net6.0\EstudoApp.runtimeconfig.json
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\bin\Debug\net6.0\EstudoApp.dll
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\bin\Debug\net6.0\EstudoApp.pdb
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.csproj.AssemblyReference.cache
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.AssemblyInfoInputs.cache
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.AssemblyInfo.cs
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.csproj.CoreCompileInputs.cache
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.dll
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\refint\EstudoApp.dll
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.pdb
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\EstudoApp.genruntimeconfig.cache
+C:\Users\SRMidia\Documents\EstudoApp\EstudoApp\obj\Debug\net6.0\ref\EstudoApp.dll
